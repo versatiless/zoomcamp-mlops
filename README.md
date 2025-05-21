@@ -1,3 +1,3 @@
 # zoomcamp-mlops
 
-My Homework solutions for zoomcamp mlops.
+My homework solutions for zoomcamp mlops.
