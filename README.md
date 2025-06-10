@@ -1,3 +1,3 @@
 # zoomcamp-mlops
 
-My homework solutions for zoomcamp mlops.
+The repository for studying the Zoomcamp MLOps.
